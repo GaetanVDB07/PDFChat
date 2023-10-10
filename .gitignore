@@ -16,9 +16,10 @@ build/
 
 # ignore env files
 .env
-
+venv/
+.venv/
+.venv
 # ignore environment files
 environment.yml
 
-#ignore environment folder
-.venv/
+# ignore python cache
