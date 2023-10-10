@@ -19,3 +19,4 @@ build/
 
 # ignore environment files
 environment.yml
+.venv
