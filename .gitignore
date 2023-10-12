@@ -14,11 +14,13 @@ build/
 .vscode/
 .idea/
 
-# ignore env files
+# ignore env files and .venv folders
 .env
-venv/
-.venv/
 .venv
+.venv/
+venv/
+venv
+
 # ignore environment files
 environment.yml
 
