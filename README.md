@@ -7,9 +7,6 @@ PDFChat is an AI application designed to streamline the process of interacting w
 ### Step 1: Installation
 
 1. Clone the repository to your local machine:
-   ```shell
-   git clone https://github.com/YourUsername/PDFChat.git
-
 2. Install the required Python packages using pip:
    ```shell
    pip install -r requirements.txt
